@@ -1,4 +1,4 @@
 # amitdemo
-this is my first repo 
-
-Author - AmitMandloi
+this is my first repository 
+hello world
+Author - Amit Mandloi
